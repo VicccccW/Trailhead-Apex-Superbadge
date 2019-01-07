@@ -4,14 +4,16 @@
             "path": "force-app",
             "default": true,
             "package": "Trailhead Apex Superbadge",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "Challenge 1",
+            "versionNumber": "2.0.0.NEXT"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "Trailhead Apex Superbadge": "0Ho6F000000blP7SAI"
+        "Trailhead Apex Superbadge": "0Ho6F000000blP7SAI",
+        "Trailhead Apex Superbadge@1.0.0-1": "04t6F000004DEHTQA4",
+        "Trailhead Apex Superbadge@2.0.0-1": "04t6F000004DELlQAO"
     }
 }
