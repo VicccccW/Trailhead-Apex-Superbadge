@@ -2,6 +2,9 @@
 
 ## Step
 
+dumped because of SFDX issue and scratch org issue
+but overall it was a good experience to use sfdx to interact with unmanaged pkg
+and it worked to some capacity
 > `create project`
 > `create temp scratch org`
 > `install unmanaged pkg in temp scratch org`
